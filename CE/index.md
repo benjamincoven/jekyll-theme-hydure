@@ -1,6 +1,6 @@
 ---
 layout: archive
-type: "Evénements à venir"
+type: tags
 ---
 
 test
