@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Brocante le XXX"
+tag: "Evénements à venir"
 comments: true
 ---
 
