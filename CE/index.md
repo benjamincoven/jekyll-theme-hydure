@@ -1,6 +1,6 @@
 ---
 layout: archive
-type: years
+type: "Evénements à venir"
 ---
 
 test
