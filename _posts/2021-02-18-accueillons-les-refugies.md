@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ville d'Avray : Accueillons les Réfugiés. Une série d'évènements en janvier 2022"
-tag: "Evénements à venir", "Ville d'Avray"
+tag: "Evénements à venir"
 ---
 
 
