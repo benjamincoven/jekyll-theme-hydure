@@ -1,2 +1,7 @@
-disqus : true
 title : Amnesty 121
+
+defaults:
+  - scope:
+      path: "_posts"
+    values:
+      image: true
