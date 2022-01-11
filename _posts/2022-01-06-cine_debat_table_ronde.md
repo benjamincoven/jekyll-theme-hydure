@@ -4,4 +4,4 @@ title:  "Ville d'Avray, 15 et 22 Janvier, Ciné-Débat et Table Ronde sur les R�
 tag: "Evénements à venir"
 ---
 
-![Affiche](/_posts/1.PNG)
+![Affiche](/assets/1.PNG)
