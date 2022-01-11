@@ -2,6 +2,6 @@ title : Amnesty 121
 
 defaults:
   - scope:
-      path: "_posts"
+      path: "assets"
     values:
       image: true
