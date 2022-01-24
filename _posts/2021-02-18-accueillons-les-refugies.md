@@ -3,6 +3,7 @@ layout: post
 title:  "Ville d'Avray : Accueillons les Réfugiés. Une série d'évènements en janvier 2022"
 tag: "Evénements à venir"
 excerpt_separator: <!--more-->
+image: {{site.url}}/jekyll-theme-hydure/assets/images/2.jpg
 ---
 
 ![image]({{site.url}}/jekyll-theme-hydure/assets/images/2.jpg)
