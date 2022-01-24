@@ -19,9 +19,9 @@ layout: default
 
       <p class="post-excerpt">
         {% if post.description %}
-          {{ post.description | strip_html }}
+          {{ post.description }}
         {% else %}
-          {{ post.excerpt | strip_html }}
+          {{ post.excerpt }}
         {% endif %}
       </p>
     </div>
