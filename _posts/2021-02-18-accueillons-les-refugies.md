@@ -2,12 +2,13 @@
 layout: post
 title:  "Ville d'Avray : Accueillons les Réfugiés. Une série d'évènements en janvier 2022"
 tag: "Evénements à venir"
+excerpt_separator: <!--more-->
 ---
 
 ![image]({{site.url}}/jekyll-theme-hydure/assets/images/2.jpg)
 
 **Amnesty International (Groupe local de Chaville-Vélizy-Viroflay)** est partenaire d’une série d’évènements concernant l’accueil des réfugiés, qui se dérouleront du 7 au 29 Janvier, à l’initiative de l’association  **ASSARVA**  (Association Accueil des Réfugiés à Ville d’Avray).
-
+<!--more-->
 1. **Une exposition** « De Porte en Porte » accompagnée d’une exposition d’Amnesty International.
 
 	**L’ASSARVA** présente à la Maison Pour Tous de Ville d’Avray  l’exposition  **« De Porte en Porte »**  dont l’objectif est de témoigner de l’action de l’association ASSARVA, de faire partager les  **expériences vécues par les réfugiés « accueillis » et les bénévoles « accueillants »**, et de changer le regard de nos concitoyens sur les multiples possibilités du vivre ensemble.
